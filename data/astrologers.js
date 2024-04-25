@@ -1,0 +1,1 @@
+module.exports = [{"id":1,"name":"Astrologer 1","flow":10},{"id":2,"name":"Astrologer 2","flow":8},{"id":3,"name":"Astrologer 3","flow":8},{"id":4,"name":"ASTRO","flow":8}]

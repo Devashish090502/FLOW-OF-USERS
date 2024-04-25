@@ -1,0 +1,1 @@
+module.exports = [{"id":1,"name":"John Doe","assignedAstrologer":null},{"id":2,"name":"Jane Smith","assignedAstrologer":null},{"id":3,"name":"Alice Johnson","assignedAstrologer":null},{"id":4,"name":"qwerty","assignedAstrologer":null}]
